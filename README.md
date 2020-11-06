@@ -5,7 +5,7 @@ Works with macOS Catalina (10.15.XX) and higher.
 
 I made this app in less than an hour.
 
-![CoolVirusInstaller in action](https://github.com/savagegod22/CoolVirusInstaller/blob/main/CoolVirusInstaller_Gif.gif)
+![CoolVirusInstaller in action](https://github.com/savagegod22/CoolVirusInstaller/blob/main/CoolVirusInstaller-Gif.gif)
 
 ## !!! This is not a real virus installer !!!
 If you have doubts, check the source code!

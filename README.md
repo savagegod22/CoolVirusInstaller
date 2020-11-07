@@ -1,7 +1,7 @@
 # CoolVirusInstaller
 A fake virus installer that can be used for fun! Made entierly with Swift and SwiftUI.
 
-Works with macOS Catalina (10.15.XX) and higher.
+Works with macOS Catalina (10.15.X) and higher.
 
 I made this app in less than an hour.
 

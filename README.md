@@ -11,7 +11,7 @@ Catalina:
 
 Big Sur:
 
-![CoolVirusInstaller in action on Big Sur](https://github.com/savagegod22/CoolVirusInstaller/blob/main/CoolVirusInstaller-Big-Sur.m4v)
+![CoolVirusInstaller in action on Big Sur](https://github.com/savagegod22/CoolVirusInstaller/blob/main/CoolVirusInstaller-Big-Sur.mov)
 
 ## !!! This is not a real virus installer !!!
 If you have doubts, check the source code!
